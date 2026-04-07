@@ -1,0 +1,17 @@
+node_modules/
+dist/
+out/
+.tmp/
+.cache/
+
+.vite/
+.vitepress/
+.eslintcache
+.npm/
+
+*.env*
+
+.git/
+.gitinore
+.vscode
+.DS_Store
