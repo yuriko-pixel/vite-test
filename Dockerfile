@@ -9,7 +9,7 @@ WORKDIR /app
 
 # 3. git clone を実行
 # ここで URL を直接指定します
-RUN git clone https://github.com/yuriko-pixel/vite-test.git.
+RUN git clone https://github.com/yuriko-pixel/vite-test.git .
 
 # 4. 依存関係のインストール
 RUN npm install
